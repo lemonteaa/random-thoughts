@@ -1,5 +1,7 @@
 # Quick review of opencode
 
+> Update: Okay, turns out things are even more confusing than I expected. Turns out - there is **more than one opencode (?!)**. So let me clarify, the one I tested is https://github.com/anomalyco/opencode. On the other hand, https://github.com/opencode-ai/opencode is a different project that now continues under https://github.com/charmbracelet/crush. (I've seen screenshot of the later one just today so... ya, I guess need to revise my assumption - don't assume their opencode is what I think it is lol).
+
 ## Context
 
 - Test usage with locally runnable LLM (consumer grade)
