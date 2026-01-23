@@ -38,3 +38,7 @@
 - Consider disabling LSP, or tries to add manual path config to see if opencode LSP can pick up the venv successfully
 - Provide carefully curated guidelines, both informational and behavioral, probably in `AGENTS.md`, to help LLM navigate the env more successfully.
 
+## Reference
+
+https://gist.github.com/badlogic/cd2ef65b0697c4dbe2d13fbecb0a0a5f - Explain the logic behind opencode (and other coding agent) compaction behavior
+
